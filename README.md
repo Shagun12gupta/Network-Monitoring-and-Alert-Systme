@@ -50,6 +50,10 @@ attack_detection.py
 -This module contains functions for detecting various types of network attacks, including DDoS, SQL Injection, XSS, and more.
 
 **##Contributing**
+
+
 Feel free to fork the repository, make changes, and submit pull requests. Any improvements or bug fixes are welcome!
 
-This README covers the essential aspects of your project, including setup, usage, and a 
+
+
+This README covers the essential aspects of your project, including setup, usage, and a brief description of the different scripts. Be sure to update the `<repository-url>` and any other placeholder values as needed.
