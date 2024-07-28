@@ -25,7 +25,9 @@ This project consists of various network security scripts designed to detect and
 
 3. Install the required packages:
 
-  `pip install -r requirements.txt`
+   `pip install -r requirements.txt`
+
+
 **#Usage**
 
 The main script performs network scanning, monitoring, and attack detection.
