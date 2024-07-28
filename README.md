@@ -28,7 +28,7 @@ This project consists of various network security scripts designed to detect and
    `pip install -r requirements.txt`
 
 
-**#Usage**
+## Usage
 
 The main script performs network scanning, monitoring, and attack detection.
   Run the main script:
@@ -36,7 +36,7 @@ The main script performs network scanning, monitoring, and attack detection.
 This script will display a banner, scan the network for endpoints, display them, and start monitoring network traffic for potential attacks.
 
 
-**##Scripts Overview**
+## Scripts Overview
 rtx.py.py
 -This is the main script that integrates network scanning, monitoring, and attack detection. It initializes the environment, scans the network, displays the results, and starts packet sniffing.
 
@@ -49,7 +49,7 @@ endpoint_detection.py
 attack_detection.py
 -This module contains functions for detecting various types of network attacks, including DDoS, SQL Injection, XSS, and more.
 
-**##Contributing**
+## Contributing
 
 
 Feel free to fork the repository, make changes, and submit pull requests. Any improvements or bug fixes are welcome!
